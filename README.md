@@ -1,8 +1,3 @@
-**Descripción del Repositorio en GitHub:**
-Este repositorio contiene la primer Pre Entrega de un proyecto de ETL (Extract, Transform, Load) desarrollado en Python utilizando Airflow y SQLAlchemy. El proyecto tiene como objetivo extraer datos de una API pública, transformarlos utilizando Pandas y cargarlos en un almacén de datos en Amazon Redshift. El flujo de trabajo está automatizado utilizando Airflow, con DAGs que definen las tareas y su secuencia de ejecución.
-
-**README.md:**
-
 # Proyecto ETL con Airflow y Redshift
 
 Este proyecto implementa un flujo de trabajo de ETL completo utilizando Airflow y Amazon Redshift para cargar datos desde una API pública a un almacén de datos en la nube. El proyecto está estructurado en varios componentes:
