@@ -20,14 +20,22 @@ Este proyecto implementa un flujo de trabajo de ETL completo utilizando Airflow 
 
 1. Clona este repositorio en tu máquina local.
 2. Configura las variables de entorno en el archivo `.env` con las credenciales de tu base de datos Redshift.
+
     DATABASE_TYPE=""
+
     DBAPI=""
+
     ENDPOINT=""
+
     USER=""
+
     PASSWORD=""
+
     PORT=""
+
     DATABASE=""
-3. Crea un entorno virtual e instala las dependencias ejecutando `pip install -r requirements.txt`.
+
+4. Crea un entorno virtual e instala las dependencias ejecutando `pip install -r requirements.txt`.
 
 ## Notas Adicionales:
 
